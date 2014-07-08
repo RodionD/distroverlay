@@ -7,15 +7,13 @@
 ~x11-misc/light-locker-1.4.0 amd64 x86
 ~x11-misc/lightdm-1.10.0 amd64 x86
 
-~www-client/firefox-bin amd64 x86
-~x11-misc/obmenu-generator amd64 x86
+~www-client/firefox-bin-30.0 amd64 x86
+~x11-misc/obmenu-generator-0.59 amd64 x86
 ~x11-misc/tint2-9999 amd64 x86
-~www-plugins/adobe-flash amd64 x86
-~x11-misc/tinymount amd64 x86
-~gnome-extra/nm-applet amd64 x86
-~x11-misc/spacefm amd64 x86
-~x11-misc/obapps amd64 x86
-~x11-misc/obshutdown amd64 x86
-~x11-misc/gsimplecal amd64 x86
-~x11-misc/clipit amd64 x86
+~www-plugins/adobe-flash-11.2.202.378 amd64 x86
+~x11-misc/tinymount-0.2.6-r1 amd64 x86
+~x11-misc/obapps-0.1.7 amd64 x86
+~x11-misc/obshutdown-9999 amd64 x86
+~x11-misc/gsimplecal-1.6 amd64 x86
+~x11-misc/clipit-1.4.2 amd64 x86
 
