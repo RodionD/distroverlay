@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <repositories xmlns="" version="1.0">
   <repo priority="50" quality="experimental" status="unofficial">
-    <name>distros</name>
+    <name>distroverlay</name>
     <description>Calculate Linux small Desktop Profiles</description>
     <homepage>http://www.calculate-linux.org</homepage>
     <owner>
       <email>rodion2000@gmail.com</email>
     </owner>
-    <source type="git">git://github.com/RodionD/clsd</source>
+    <source type="git">git://github.com/RodionD/distroverlay</source>
   </repo>
 </repositories>
