@@ -6,5 +6,3 @@ sys-boot/grub -multislot
 
 # флаг требовался по зависимостям media-gfx/splashutils
 sys-libs/gpm -static-libs
-
-net-misc/wicd X gtk libnotify
