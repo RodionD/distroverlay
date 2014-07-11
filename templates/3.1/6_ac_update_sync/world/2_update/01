@@ -2,11 +2,11 @@
 
 #-ini(update.worldtest,1)-#
 
+x11-wm/openbox
 x11-misc/lightdm
 media-gfx/lightdm-themes-calculate
 media-gfx/feh
 media-sound/volumeicon
-gnome-extra/nm-applet
 x11-misc/obshutdown
 x11-misc/obapps
 x11-misc/obmenu-generator
@@ -28,5 +28,4 @@ x11-misc/spacefm
 x11-misc/tinymount
 x11-misc/xxkb
 x11-terms/rxvt-unicode
-x11-wm/openbox
 app-misc/mc
