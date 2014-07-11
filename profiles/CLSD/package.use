@@ -25,3 +25,4 @@ x11-misc/lightdm -introspection
 gnome-extra/nm-applet bluetooth modemmanager
 net-irc/hexchat ntlm
 x11-wm/openbox imlib
+net-misc/wicd X gtk libnotify
