@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<repositories xmlns="" version="1.0">
+<repositories version="1.0">
   <repo priority="50" quality="experimental" status="unofficial">
     <name>CLsD</name>
     <description>Calculate Linux small Desktop Profiles</description>
@@ -7,6 +7,6 @@
     <owner>
       <email>rodion2000@gmail.com</email>
     </owner>
-    <source type="git">git://github.com/RodionD/overlay</source>
+    <source type="git">git://github.com/RodionD/overlay.git</source>
   </repo>
 </repositories>
